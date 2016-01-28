@@ -2,6 +2,7 @@ name: VD Testsite
 favicon: null
 layout_spectrum: 0.39847391028888524
 typography_spectrum: 0.28610278107225895
+title: Vortex Design
 cta:
   domain: null
   bucket: null
