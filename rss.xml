@@ -2,15 +2,25 @@
     <channel>
         <title><![CDATA[Vortex Design]]></title>
         <description><![CDATA[Vortex Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vd-testsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 12:00:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 12:04:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vd-testsite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Webdesign ]]></title>
+            <description><![CDATA[<article><h1>Webdesign </h1><p>Da die Erstellung einer Internetseite immer einen sehr individuellen Vorgang bei jedem Projekt darstellt, ist
+       es nicht möglich pauschale Kostenpakete festzulgen. Falls sie Interesse daran haben, für Ihr Unternehmen
+       eine Internetpräsenz von VORTEX DESGIN entwickeln zu lassen, nehmen Sie bitte Kontakt
+       mit uns auf und beschreiben Sie uns welche Erwartungen das Projekt für Sie erfüllen soll.</p></article>]]></description>
+            <link>https://thegrid.ai/vd-testsite/webdesign/index.html</link>
+            <guid isPermaLink="false">c806b06a-3eaa-492b-84c9-67c7cf222539</guid>
+            <pubDate>Thu, 28 Jan 2016 12:03:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Über uns]]></title>
             <description><![CDATA[<article><h1>Über uns</h1><p>VORTEX DESIGN besteht genau gesagt bis jetzt nur aus einer Person, hat aber Ambitionen dies zu verändern.
         Diese Person bin ich, Steffen Eppler und derzeit 33 Jahre alt.</p></article>]]></description>
-            <link>undefineduber-uns/index.html</link>
+            <link>https://thegrid.ai/vd-testsite/uber-uns/index.html</link>
             <guid isPermaLink="false">50d9e12f-6fc7-4a3e-8f93-8b78f9c9fc57</guid>
             <pubDate>Thu, 28 Jan 2016 12:00:07 GMT</pubDate>
         </item>
